@@ -625,7 +625,7 @@ section.freelancer h1 {
 }
 
 .contact-input::placeholder {
-  color: inherit;
+  color: black;
 }
 
 textarea.contact-input {
